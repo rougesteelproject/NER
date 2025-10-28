@@ -1,0 +1,12 @@
+/.rooignore
+/.venv
+/candidate_searches.parquet
+/candidate_searches_built_in.parquet
+/candidate_searches_copy.csv
+/candidate_searches_labeled.parquet
+/combined_processing.py
+/read_parquet.py
+/aho_corasick_tries
+/report.txt
+/tools.md
+/__pycache__
